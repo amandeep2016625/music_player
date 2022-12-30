@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    color: whitesmoke;
+    position: absolute;
+    top: 500px;
+    left: 700px;
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+    left: 500px;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 500px;
+    top: 90px;
+}
+p{
+    color: whitesmoke;
+    position: absolute;
+    top: 550px;
+    left: 360px;
+}
+.main_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#musicplayerkeys{
+    background-color: black;
+    border: none;
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+#singer{
+    
+    left: 600px;
+    top: 514px;
+    font-weight: 100;
+    font-style: italic;
+  font-size: xx-large;
+
+    text-align: center;
+}
+
+
+    
